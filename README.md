@@ -21,6 +21,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/VicTorMGD/Jazfarma1)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/VicTorMGD/Jazfarma1)
 ***
+https://gist.github.com/
 <!--
 **VicTorMGD/VicTorMGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
