@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Software en TitanicSoft**
-:pencil: **Analista Desarrollador**
-:eyeglasses: **Player geek**
-:oncoming_automobile: **Me gusta viajar y programar**
+:computer: **Ingeniero de Software en TitanicSoft**\
+:pencil: **Analista Desarrollador**\
+:eyeglasses: **Player geek**\
+:oncoming_automobile: **Me gusta viajar y programar**\
 :family: **La mejor del mundo**
 ***
 ### Visitame en:
